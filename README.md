@@ -1,4 +1,4 @@
-# Supaero SDD CTF 2023
+# Supaero SDD CTF 2024
 
 Question and data repository for the [2024 Capture the Flag](https://supaerodatascience.github.io/DE/ctf.html).
 
