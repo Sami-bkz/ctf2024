@@ -1,5 +1,7 @@
 # Supaero SDD CTF 2024
 
+Credits : Dennis Wilson - Professor @ ISAE-SUPAERO (2024) | Christophe Huet - Data-analyst @ EasyMile (2024)
+
 Question and data repository for the [2024 Capture the Flag](https://supaerodatascience.github.io/DE/ctf.html).
 
 [Leaderboard](http://34.163.57.143/)
